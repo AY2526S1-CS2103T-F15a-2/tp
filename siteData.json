@@ -9,7 +9,7 @@
         "cyril-pedrina": "Cyril Pedrina",
         "jane-doe": "Jane Doe",
         "johnny-doe": "Johnny Doe",
-        "jean-doe": "Jean Doe",
+        "zamien-peh": "Zamien Peh",
         "james-doe": "James Doe"
       },
       "headingKeywords": {}
@@ -148,6 +148,20 @@
       "title": "John Doe's Project Portfolio Page",
       "headings": {
         "project-addressbook-level-3": "Project: AddressBook Level 3"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/zpnoob.md",
+      "headings": {
+        "portfolio": "Portfolio",
+        "team-project-ecotrack-nus-orbital-project": "👥 Team Project: EcoTrack (NUS Orbital Project)",
+        "key-features": "Key Features",
+        "my-role": "My Role",
+        "individual-project-jung-task-manager": "🧑‍💻 Individual Project: Jung (Task Manager)",
+        "key-features-2": "Key Features",
+        "technology": "Technology",
+        "skills-highlighted": "📌 Skills Highlighted"
       },
       "headingKeywords": {}
     }
