@@ -3,11 +3,10 @@
   "pages": [
     {
       "src": "AboutUs.md",
-      "title": "About Us",
       "headings": {
         "about-us": "About Us",
         "project-team": "Project team",
-        "john-doe": "John Doe",
+        "cyril-pedrina": "Cyril Pedrina",
         "jane-doe": "Jane Doe",
         "johnny-doe": "Johnny Doe",
         "jean-doe": "Jean Doe",
@@ -132,6 +131,15 @@
       "title": "",
       "headings": {
         "addressbook-level-3": "AddressBook Level-3"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/cyfake.md",
+      "headings": {
+        "my-portfolio": "My Portfolio",
+        "quotes-by-the-boys": "Quotes by the Boys",
+        "random-quote-generator": "Random Quote Generator"
       },
       "headingKeywords": {}
     },
