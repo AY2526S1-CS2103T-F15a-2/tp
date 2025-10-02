@@ -10,7 +10,7 @@
         "jane-doe": "Jane Doe",
         "johnny-doe": "Johnny Doe",
         "zamien-peh": "Zamien Peh",
-        "james-doe": "James Doe"
+        "cheng-leong": "Cheng Leong"
       },
       "headingKeywords": {}
     },
@@ -131,6 +131,13 @@
       "title": "",
       "headings": {
         "addressbook-level-3": "AddressBook Level-3"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/chengleong.md",
+      "headings": {
+        "portfolio": "Portfolio"
       },
       "headingKeywords": {}
     },
