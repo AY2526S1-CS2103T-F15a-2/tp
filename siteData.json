@@ -8,9 +8,9 @@
         "project-team": "Project team",
         "cyril-pedrina": "Cyril Pedrina",
         "jane-doe": "Jane Doe",
-        "johnny-doe": "Johnny Doe",
-        "zamien-peh": "Zamien Peh",
-        "cheng-leong": "Cheng Leong"
+        "nicholas-chin": "Nicholas Chin",
+        "jean-doe": "Jean Doe",
+        "james-doe": "James Doe"
       },
       "headingKeywords": {}
     },
@@ -155,6 +155,15 @@
       "title": "John Doe's Project Portfolio Page",
       "headings": {
         "project-addressbook-level-3": "Project: AddressBook Level 3"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/lanjia0.md",
+      "headings": {
+        "lanjia0-portfolio": "lanjia0 Portfolio 🎶",
+        "featured-track": "🎵 Featured Track",
+        "about-me": "👤 About Me"
       },
       "headingKeywords": {}
     },
