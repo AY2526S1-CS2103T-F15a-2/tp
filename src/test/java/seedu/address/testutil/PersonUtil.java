@@ -38,7 +38,7 @@ public class PersonUtil {
             s -> sb.append(PREFIX_TAG + s.tagName + " ")
         );
         return sb.toString();
-    }
+    } 
 
     /**
      * Returns the part of command string for the given {@code EditPersonDescriptor}'s details.
