@@ -63,15 +63,13 @@
         "launch-and-shutdown": "Launch and shutdown",
         "deleting-a-person": "Deleting a person",
         "saving-data": "Saving data",
-        "head": "&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD",
-        "appendix-future-enhancement": "Appendix: Future Enhancement",
         "adding-a-person": "Adding a person",
         "editing-a-person": "Editing a person",
         "finding-persons": "Finding persons",
         "priority-management": "Priority management",
         "income-bracket-management": "Income bracket management",
         "do-not-call-dnc-tag-management": "Do Not Call (DNC) tag management",
-        "appendix-future-enhancement-2": "Appendix: Future Enhancement"
+        "appendix-future-enhancements": "Appendix: Future Enhancements"
       },
       "headingKeywords": {}
     },
